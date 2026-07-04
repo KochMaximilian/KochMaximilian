@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**KochMaximilian/KochMaximilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Kubernetes · GitOps · Games · Tools
+ 
+I like building things and understanding how they work. My main interests are game development and development infrastructure.
+ 
+## Infrastructure
+ 
+I run my own Kubernetes platform — built piece by piece to actually understand each layer, not just make it run.
+ 
+## Games & tools
+ 
+I make games, tools, and small experiments in **Unity** and, more recently, **Godot**.
